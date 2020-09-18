@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{L1EO:function(e,t,c){},QfWi:function(e,t,c){"use strict";c.r(t);c("Muwe"),c("y89P"),c("L1EO");var i={switchInput:document.querySelector(".js-switch-input"),body:document.querySelector("body")};i.switchInput.addEventListener("change",(function(){i.body.classList.contains("light-theme")?i.body.classList.replace("light-theme","dark-theme"):i.body.classList.replace("dark-theme","light-theme")}))}},[["QfWi",1,2]]]);
-//# sourceMappingURL=main.f6fd9ceb378e4fdd27d1.js.map
